@@ -1,0 +1,3 @@
+nimmi deposited 2000.0
+nimmi withdrew 1000.0
+nimmi deposited 2000.0
